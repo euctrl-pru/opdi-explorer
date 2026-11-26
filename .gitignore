@@ -1,0 +1,10 @@
+# Keys never belong in this repository.
+.env
+*.env
+env
+.streamlit/secrets.toml
+
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/

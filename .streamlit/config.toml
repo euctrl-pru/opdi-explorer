@@ -1,0 +1,7 @@
+[client]
+# A guide for readers, not a developer's workbench: no Deploy button or
+# settings menu in the corner.
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
